@@ -3,6 +3,6 @@
 def display_board
   row = ["   ", "|", "   ", "|", "   "]
   divider = "-----------"
-  puts row
+  print row
   puts divider
 end
